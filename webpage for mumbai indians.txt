@@ -1,0 +1,223 @@
+
+<html>
+<head>
+<title>MI</title>
+</head>
+<body>
+
+<h style="font-size:60px;color:SlateBlue;">Mumbai Indians</h>
+
+<hr>
+     <p style="font-size:25px;"><b>The Mumbai Indians</b> are a franchise <strong>cricket team</strong> based in Mumbai, Maharashtra, that competes in the <mark>Indian Premier League.</mark> Founded in 2008, the team is owned by India's biggest conglomerate, Reliance Industries, through its 100% subsidiary IndiaWin Sports. Since its establishment, the team has played its home matches in the 33,108-capacity <i>Wankhede Stadium</i> in Mumbai.</p>
+
+<p style="font-size:25px;">Mumbai Indians won the <mark>2011 Champions League Twenty20</mark> after beating <mark>Royal Challengers Bangalore</mark> by <mark>31</mark> runs in the final. The team won the double by winning its first IPL title, in <mark>2013</mark>, by defeating <mark>Chennai Super Kings</mark> by 23 runs in the final, and then defeated the <mark>Rajasthan Royals</mark> by 33 runs to win its <mark>second Champions League Twenty20</mark> title later that year. They won their second IPL title on 24 May 2015 by defeating the Chennai Super Kings by 41 runs in the final and became the third team to win more than one IPL title. On 21 May 2017, they won their third IPL title by defeating <mark>the Rising Pune Supergiant</mark> by 1 run in a thrilling final, thus becoming the first team to win three IPL titles. While playing the tournament, they won their 100th T20, becoming the first team to do so. In 2019, they repeated the same feat as they won a record breaking fourth IPL title, by beating CSK by just 1 run on 12 May 2019 in the IPL Final. They became the first team to win the IPL title for the fifth time, by beating <mark>Delhi Capitals</mark> by 5 wickets on 10 November 2020 in the IPL Final.
+<hr>
+<h style="color:GREEN;font-size:29px;">HISTORY</h>
+<h1 style="border:2px solid Tomato;color:gray;font-size:27px;font-family:lucida handwriting;">FULL NAME: MUMBAI INDIANS <hr><div style="color:blue;font-size:27px;font-family:lucida handwriting;">NICK NAME: MI<hr></div><div style="color:GRAY;font-size:27px;font-family:lucida handwriting;">FOUNDED: 2008<hr></div><div style="color:BLUE;font-size:27px;font-family:lucida handwriting;">GROUND: WANKHEDE STADIUM<hr> </div><div style="color:GRAY;font-size:27px;font-family:lucida handwriting;">TEAM OWNERS:Nita Ambani,Akash Ambani(RELIANCE INDUSTRIES)<hr>  </div><div style="color:BLUE;font-size:27px;font-family:lucida handwriting;">PROMINENT PLAYERS:Rohit Sharma, Kieron Pollard, Jasprit Bumrah, Hardik Pandya, Ishan Kishan
+</div>
+</h1>
+<h2 style="color:green;font-size:29px;">ABOUT</h2>
+<hr>
+<p style="color:maroon;font-size:25px;">Captain<a href="https://www.cricbuzz.com/profiles/576/rohit-sharma">Rohit sharma</a>.</p>
+<p style="color:maroon;font-size:25px;">Vice Captain<a href="https://www.cricbuzz.com/profiles/657/kieron-pollard">Kieron pollard</a>.</p>
+<p style="color:maroon;font-size:25px;">Theme song<a href="https://youtu.be/3tJmEYHq69s">click here to hear the theme song</a>.</p>
+<p style="color:maroon;font-size:25px;">Major Rival(s) <abbr title="Chennai Super Kings">CSK,</abbr> <abbr title="Royal Challengers Bangalore">RCB</abbr></p>
+<p style="color:maroon;font-size:25px;">LOGO <div style="color:navy blue;font-size:22px;">A blue and golden coloured 'CHAKRA'</div><a href="https://images.app.goo.gl/35Gq9q9mwDwLtodq7">LOGO IS HERE</a>.</p>
+
+</style>
+</head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid gray;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: DodgerBlue;
+}
+</style>
+<body>
+
+
+<h2 style="text-align:center;font-family:lucida handwriting;color:tomato;">TEAM PERFORMANCE</h2>
+
+<table>
+  <tr>
+    <th style="color:violet;font-family:lucida handwriting;">YEAR</th>
+    <th style="color:violet;font-family:lucida handwriting;">CAPTAIN</th>
+    <th style="color:violet;font-family:lucida handwriting;">RESULT</th>
+    <th style="color:violet;font-family:lucida handwriting;">TOP BATSMAN</th>
+    <th style="color:violet;font-family:lucida handwriting;">RUNS</th>
+    <th style="color:violet;font-family:lucida handwriting;">TOP BOWLER</th>
+    <th style="color:violet;font-family:lucida handwriting;">WICKETS</th>
+    <th style="color:violet;font-family:lucida handwriting;">WIN %/th>
+   
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Rohit Sharma</td>
+    <td>1st</td>
+    <td>Ishan Kishan</td>
+    <td>516</td>
+    <td>Jasprit Bumrah</td>
+    <td>27</td>
+    <td>68.75</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2019</td>
+    <td>Rohit Sharma</td>
+    <td>1st</td>
+    <td>Quinton de Kock	</td>
+    <td>529</td>
+    <td>Jasprit Bumrah</td>
+    <td>19</td>
+    <td>68.75</td>
+    
+ 
+  </tr>
+    <tr>
+    <td>2018</td>
+    <td>Rohit Sharma</td>
+    <td>5th</td>
+    <td>Suryakumar Yadav</td>
+    <td>512</td>
+    <td>Hardik Pandya</td>
+    <td>18</td>
+    <td>68.75</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2017</td>
+    <td>Rohit Sharma</td>
+    <td>1st</td>
+    <td>Parthiv Patel</td>
+    <td>395</td>
+    <td>Jasprit Bumrah</td>
+    <td>20</td>
+    <td>42.86</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2016</td>
+    <td>Rohit Sharma</td>
+    <td>5th</td>
+    <td>Rohit Sharma</td>
+    <td>489</td>
+    <td>Mitchell McClenaghan</td>
+    <td>17</td>
+    <td>70.59</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2015</td>
+    <td>Rohit Sharma</td>
+    <td>1st</td>
+    <td>Lendl Simmons</td>
+    <td>540</td>
+    <td>Lasith Malinga</td>
+    <td>24</td>
+    <td>50.00</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2014</td>
+    <td>Rohit Sharma</td>
+    <td>4th</td>
+    <td>Lendl Simmons</td>
+    <td>394</td>
+    <td>Lasith Malinga</td>
+    <td>16</td>
+    <td>62.50</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2013</td>
+    <td>Ricky Ponting/Rohit Sharma</td>
+    <td>1st</td>
+    <td>Rohit Sharma</td>
+    <td>538</td>
+    <td>Harbhajan Singh	</td>
+    <td>24</td>
+    <td>46.47</td>
+    
+ 
+  </tr>
+
+ <tr>
+    <td>2012</td>
+    <td>Harbhajan Singh	</td>
+    <td>4th</td>
+    <td>Rohit Sharma</td>
+    <td>433</td>
+    <td>Lasith Malinga</td>
+    <td>22</td>
+    <td>68.42</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2011</td>
+    <td>Sachin Tendulkar</td>
+    <td>3rd</td>
+    <td>Sachin Tendulkar</td>
+    <td>553</td>
+    <td>Lasith Malinga</td>
+    <td>28</td>
+    <td>58.82</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2010</td>
+    <td>Sachin Tendulkar</td>
+    <td>2nd</td>
+    <td>Sachin Tendulkar</td>
+    <td>618</td>
+    <td>Harbhajan Singh</td>
+    <td>17</td>
+    <td>62.50</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2009</td>
+    <td>Sachin Tendulkar</td>
+    <td>7th</td>
+    <td>JP Duminy</td>
+    <td>372</td>
+    <td>Lasith Malinga</td>
+    <td>18</td>
+    <td>68.75</td>
+    
+ 
+  </tr>
+ <tr>
+    <td>2008</td>
+    <td>Sachin Tendulkar/Harbhajan Singh/Shaun Pollock	</td>
+    <td>5th</td>
+    <td>Sanath Jayasuriya</td>
+    <td>518</td>
+    <td>Ashish Nehra</td>
+    <td>12</td>
+    <td>50.00</td>
+    
+ 
+  </tr>
+</table>
+</body>
+
+</html>
